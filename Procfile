@@ -1,1 +1,1 @@
-worker: java -jar bot.jar -nogui
+worker: java -jar JMusicBot-0.2.3.jar -nogui
